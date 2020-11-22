@@ -1,4 +1,4 @@
-# Housing Finder
+# Illini Housing
 
 PM: Jackie Oh (jmoh3)
 Members: Eva (evayl2), Flora (floraz2), Peter (yipengy2), Tejal (tejala2), Saket (saketv2), Alex (fengg2)
